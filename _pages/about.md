@@ -7,7 +7,7 @@ subtitle: <a href='http://www.lowell.edu'>Lowell Observatory</a> |
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: joe_vertical.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>

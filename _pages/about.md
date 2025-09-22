@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='http://www.lowell.edu'>Lowell Observatory</a> | <a href="mailto:joellama@gmail.com">joellama@gmail.com</a>
+subtitle: <a href='http://www.lowell.edu'>Lowell Observatory</a> | 
+          <a href="mailto:joellama@gmail.com">joellama@gmail.com</a>
 
 profile:
   align: right
